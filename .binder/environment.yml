@@ -9,4 +9,5 @@ dependencies:
   - pandas
   - matplotlib
   - cvxopt
+  - openpyxl
 prefix: /Users/jyang872/anaconda3/envs/meanvar
